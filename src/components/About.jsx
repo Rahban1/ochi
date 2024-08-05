@@ -2,7 +2,7 @@ import React from 'react'
 
 function About() {
   return (
-    <div className='bg-[#CDEA68] w-full p-20 rounded-tl-3xl rounded-tr-3xl text-black'>
+    <div data-scroll data-scroll-section data-scroll-speed="-.2" className='bg-[#CDEA68] w-full p-20 rounded-tl-3xl rounded-tr-3xl text-black'>
         <h1 className='font-["Neue_Montreal"] text-[4vw] leading-[4.5vw] tracking-tight'>Ochi is a strategic partner for fast-grow­ing tech businesses that need to raise funds, sell products, explain complex ideas, and hire great people.</h1>
         <div className="w-full border-t-[1px] border-[#a1b562] pt-10 mt-16 flex gap-5 ">
             <div className='w-1/2'>
