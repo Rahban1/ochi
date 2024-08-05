@@ -11,7 +11,7 @@ function About() {
                     <div className='w-2 h-2 rounded-full bg-zinc-100'></div>
                 </button>
             </div>
-            <div className="w-1/2 h-[70vh] bg-red-600 rounded-xl">
+            <div className="w-1/2 h-[70vh] rounded-xl">
               <img className='rounded-xl' src="https://ochi.design/wp-content/uploads/2022/05/Homepage-Photo-663x469.jpg" alt="founder's photo" />
             </div>
         </div>

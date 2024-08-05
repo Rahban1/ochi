@@ -14,7 +14,7 @@ function LandingPage() {
                             <motion.div 
                                 initial={{width: 0}} 
                                 animate={{width: "9vw"}} 
-                                transition={{ease: [0.76, 0, 0.24, 1], duration: 0.6}} 
+                                transition={{ease: [0.76, 0, 0.24, 1], duration: 1.5}} 
                                 className='w-[9vw] h-[6.5vw] rounded-md mr-[1vw] relative -top-[0.5vw]'>
                                     <img className='rounded-md' src="https://ochi.design/wp-content/uploads/2022/04/content-image01.jpg" alt="" />
                             </motion.div>)}
